@@ -1,4 +1,4 @@
-ommon Types of Wounds
+Ccommon Types of Wounds
 Laceration wound
 A laceration is a wound that is produced by the tearing of soft body tissue. This type of wound is often irregular and jagged. A laceration wound is often contaminated with bacteria and debris from whatever object caused the cut.
 Punctured Wound
