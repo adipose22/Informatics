@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title></title>
 </head>
 <body>
-<body bgcolor = “black”>
+
 
 <h1>Common Types of Wounds</h1>
 
