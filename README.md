@@ -1,24 +1,25 @@
 
 <html>
 <head>
+<title></title>
 </head>
 <body>
 
-<h1>Common Types of Wounds</h1>
+<h1 style="color:red;">Common Types of Wounds</h1>
 
-<h2> Laceration wound 
+<h2 style="color:blue;"> Laceration wound 
 
 <h3> A laceration is a wound that is produced by the tearing of soft body tissue. This type of wound is often irregular and jagged. A laceration wound is often contaminated with bacteria and debris from whatever object caused the cut.<p>
 
       
-<h2> Punctured Wound
+<h2 style="color:blue;"> Punctured Wound
 
 <h3> A puncture wound is usually caused by a sharp pointy object such as a nail, animal teeth, or a tack. This type of wound usually does not bleed excessively and can appear to close up. Puncture wounds are also prone to infection and should be treated appropriately.<p>
 
 
 <img src="https://medlineplus.gov/ency/images/ency/fullsize/19616.jpg" height="400px" width= "600px"> 
 
-<h2> Abrasion 
+<h2 style="color:blue;"> Abrasion 
 
 <h3> An abrasion is a scrape on your skin. This is a break in your skin that happens when your skin rubs off. It may bleed slightly and hurt. An abrasion often happens when something hits or drags against your skin (friction). Abrasions are usually accidental injuries. They only affect the outermost layers of your skin.<p>
 
@@ -34,13 +35,13 @@
 
 <img src="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/25079-abrasion" height="400px" width= "600px"> 
 
-<h2>Avulsion 
+<h2 style="color:blue;">Avulsion 
 
 <h3>An avulsion fracture is where a small piece of bone attached to a tendon or ligament gets pulled away from the main part of the bone. Ligaments hold your bones, joints and organs in place while tendons connect muscles and bones. In an avulsion fracture, your bone moves one way and your tendon or ligament moves in the opposite direction with a broken chunk of bone in tow. This most often happens when you suddenly change direction. <p> 
 
 <img src="https://my.clevelandclinic.org/-/scassets/Images/org/health/articles/21802-avulsion-fracture" height="400px" width= "600px"> 
 
-<h2>Burns 
+<h2 style="color:blue;">Burns 
 
 <h3> A burn occurs when heat, chemicals, sunlight, electricity or radiation damages skin tissue. Most burns happen accidentally.
 
@@ -54,7 +55,7 @@
 
 <img src="https://medlineplus.gov/ency/images/ency/fullsize/1078.jpg" height="400px" width= "600px"> <p>
 
-<h2>Surgical Wounds
+<h2 style="color:blue;">Surgical Wounds
 
 <h3>  A surgical wound is a cut or incision in the skin that is usually made by a scalpel during surgery. A surgical wound can also be the result of a drain placed during surgery. Surgical wounds vary greatly in size. They are usually closed with sutures, but are sometimes left open to heal.
 
@@ -72,7 +73,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWooGuYdHkXw84Wxyaa-dqkjcxHZK8rx3A2X26bPHVCUsJsvYaMvO94K1tIHJyW9qHRc0&usqp=CAU" height="400px" width= "600px"> <p>
 
-<h2>Bedsores (Ulcers)<p>
+<h2 style="color:blue;">Bedsores (Ulcers)<p>
 
 <h3> Bedsores are wounds that occur from prolonged pressure on your skin. People who are immobile for long periods, such as those who are bedridden or use a wheelchair, are most at risk for bedsores. <p>
 
@@ -116,3 +117,6 @@ Laceration versus puncture wound: MedlinePlus Medical Encyclopedia Image. (2023)
 ‌<p>(2024). Gstatic.com. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgMDlcj6oIzgMM_EoMI8A1yR0qdY_URn2Nx2bF_UacNK5Hr92ba7Bc4vXnZXWrY2ZxtI&usqp=CAU
 
 ‌
+
+
+
