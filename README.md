@@ -1,9 +1,9 @@
 
 <html>
 <head>
+<title></title>
 </head>
 <body>
-
 
 <h1>Common Types of Wounds</h1>
 
@@ -115,3 +115,5 @@ Laceration versus puncture wound: MedlinePlus Medical Encyclopedia Image. (2023)
 <p> Clinic, C. (2023). Bedsores (Pressure Ulcers): Symptoms, Staging & Treatment. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/17823-bedsores-pressure-injuries
 
 ‌<p>(2024). Gstatic.com. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgMDlcj6oIzgMM_EoMI8A1yR0qdY_URn2Nx2bF_UacNK5Hr92ba7Bc4vXnZXWrY2ZxtI&usqp=CAU
+
+‌
